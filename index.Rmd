@@ -24,8 +24,6 @@ knitr::opts_chunk$set(
 
 <br>
 
-<br>
-
 <center>
 
 ```{r logo-ies}
@@ -33,5 +31,78 @@ if(file.exists("2023/Logo_Paradesportivo_2023.jpg")) {
   cat('<img src=\"2023/Logo_Paradesportivo_2023.jpg\" align=\"center\"/>')
 }
 ```
+
+</center>
+
+<br>
+
+# **Tema**
+
+<br>
+
+*O esporte e o universo de possibilidades para as pessoas com deficiência*
+
+<br>
+
+# **O evento**
+
+<br>
+
+*Tema*: O esporte e o universo de possibilidades para as pessoas com deficiência
+
+*Data*: 20 de setembro de 2023
+
+<br>
+
+O Simpósio Paradesportivo Carioca tem como objetivo apresentar e discutir questões relacionadas à prática de esportes por pessoas com deficiência entre estudantes de graduação e pós-graduação, profissionais e pesquisadores nas diferentes áreas de conhecimento.
+
+<br>
+
+O Simpósio Paradesportivo Carioca é um evento realizado pelo Programa de Pós- graduação em Ciências da Reabilitação (PPGCR) da UNISUAM, como uma das ações da linha de pesquisa “Reabilitação no esporte e no esporte adaptado”. O evento conta com o apoio da Academia Paralímpica Brasileira (APB), braço científico do Comitê Paralímpico Brasileiro (CPB).
+
+<br>
+
+Em todas as edições (2015, 2016, 2017, 2019, 2021 e 2022), além das palestras, mesas redondas, mini-cursos e lançamento de livros, os participantes internos e externos tiveram a oportunidade de apresentar trabalhos científicos (incluindo TCCs, dissertações de mestrado e teses de doutorado) em forma de pôster, com premiação dos melhores trabalhos. Ao longo desses anos, o Simpósio Paradesportivo Carioca se tornou um evento de referência na área do Esporte para Pessoas com Deficiência, com a participação de mais de 1000 pessoas.
+
+<br>
+
+A realização do Simpósio Paradesportivo Carioca é uma forma de aumentar a visibilidade do PPGCR/UNISUAM por meio da divulgação das pesquisas, estimulando o ingresso de novos discentes e parcerias interinstitucionais. Além disso, a realização de eventos é um dos critérios da CAPES para a avaliação dos PPG, contribuindo para a melhor avaliação do PPGCR/UNISUAM na área 21.
+
+<br>
+
+#  **Comissão Organizadora**
+
+- Profa. Dra. Patrícia dos Santos Vigário
+- Profa. Karina Reis
+- Prof. Carlos Alberto Cordella
+- Profa. Luciana Luna
+- Profa. Ms. Júlia Lemos (UNISUAM) 
+- Profa. Ms. Larissa Barranco
+
+<br>
+
+# **Comissão Científica**
+
+- Prof. Dr. Agnaldo José Lopes (UNISUAM)
+- Profa. Dra. Angela Nogueira Neves (EsEFEx)
+- Prof. Dr. Arthur de Sá Ferreira (UNISUAM) 
+- Prof. Dr. Estevão Monteiro (UNISUAM)
+- Prof. Dr. Fábio Vieira dos Anjos (UNISUAM) 
+- Prof. Ms. Hugo Vinícius (Univassouras) 
+- Prof. Dr. Igor Ramathur Telles de Jesus (UNISUAM) 
+- Prof. Dr. Jeter de Freitas (UNISUAM) 
+- Profa. Ms. Júlia Lemos (UNISUAM) 
+- Profa. Ms. Juliana Valentim Bittencourt (UNISUAM)
+- Profa. Dra. Laura Alice Santos Oliveira (UNISUAM) 
+- Prof. Dr. Leandro Alberto Calazans Nogueira (UNISUAM) 
+- Profa. Dra. Luciana Crepaldi Lunkes (UNISUAM) 
+- Prof. Dr. Luis Felipe da Fonseca Reis (UNISUAM) 
+- Profa. Dra. Mariana Simões (UNICAMP) 
+- Profa. Dra. Míriam Raquel Meira Mainenti (EsEFEx) 
+- Prof. Dr. Ney Armando de Mello Meziat Filho (UNISUAM) 
+- Profa. Dra. Patrícia dos Santos Vigário
+- Prof. Dr. Rafael Mocarzel (Univassouras) 
+- Prof. Dr. Renato Santos de Almeida (UNISUAM) 
+- Prof. Dr. Thiago Lemos de Carvalho (UNISUAM)
 
 <br>

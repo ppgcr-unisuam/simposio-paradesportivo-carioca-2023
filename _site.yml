@@ -13,9 +13,27 @@ search: true
 navbar:
   left:
     - text: "O Simpósio"
-      icon: "fa-home"
       href: [index.html]
-    - text: ""
+    - text: "Programação"
+      href: [programacao.html]
+    - text: "Palestrantes"
+      href: [palestrantes.html]
+    - text: "Local"
+      href: [local.html]
+    - text: "Normas"
+      href: [normas.html]
+    - text: "Publicações"
+      href: [publicacoes.html]
+    - text: "Galeria"
+      href: [galeria.html]
+    - text: "Submissão de trabalhos"
+      icon: "fa-share-from-square"
+      href: [https://forms.gle/o1iawzzjTLXjF2CH6]
+    - text: "Inscrições"
+      icon: "fa-share-from-square"
+      href: [https://forms.gle/V7Ew5NjBYCWyJg8DA]
+  right:
+    - text: "Dúvidas"
       icon: "fa-envelope"
       href: [mailto:paradesportivocarioca@gmail.com]
     - text: ""
