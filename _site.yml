@@ -12,7 +12,8 @@ include:
 search: true
 navbar:
   left:
-    - text: "O Simpósio"
+    - text: ""
+      icon: "fa-home"
       href: [index.html]
     - text: "Programação"
       href: [programacao.html]
@@ -20,20 +21,20 @@ navbar:
       href: [palestrantes.html]
     - text: "Local"
       href: [local.html]
-    - text: "Normas"
+    - text: "Normas de submissão"
       href: [normas.html]
     - text: "Publicações"
       href: [publicacoes.html]
     - text: "Galeria"
       href: [galeria.html]
-    - text: "Submissão de trabalhos"
-      icon: "fa-share-from-square"
-      href: [https://forms.gle/o1iawzzjTLXjF2CH6]
+  right:
     - text: "Inscrições"
       icon: "fa-share-from-square"
       href: [https://forms.gle/V7Ew5NjBYCWyJg8DA]
-  right:
-    - text: "Dúvidas"
+    - text: "Submissão de trabalhos"
+      icon: "fa-share-from-square"
+      href: [https://forms.gle/o1iawzzjTLXjF2CH6]
+    - text: ""
       icon: "fa-envelope"
       href: [mailto:paradesportivocarioca@gmail.com]
     - text: ""
@@ -47,7 +48,7 @@ output:
     css:
       - style.css
     toc: true
-    toc_depth: 3
+    toc_depth: 2
     toc_float: true
     edit: null
     sharing:

@@ -3,6 +3,8 @@ title: Programação
 output:
   html_document:
     toc: FALSE
+    css:
+      - CSS/index.css
 ---
 
 <!--install and/or load all R packages-->
