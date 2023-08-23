@@ -1,0 +1,43 @@
+---
+title: Simpósio Paradesportivo Carioca
+date: '`r format(Sys.Date())`'
+author:
+  - name: Simpósio Paradesportivo Carioca - PPGCR-UNISUAM
+  - email: "paradesportivocarioca@gmail.com"
+repository_url: https://ppgcr-unisuam.github.io/simposio-paradesportivo-carioca/
+creative_commons: CC BY-NC
+output_dir: docs
+include:
+  - footer.html
+search: true
+navbar:
+  left:
+    - text: "O SImpósio"
+      icon: "fa-home"
+      href: [index.html]
+    - text: ""
+      icon: "fa-envelope"
+      href: [mailto:paradesportivocarioca@gmail.com]
+    - text: ""
+
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate
+    include:
+      after_body: [footer.html]
+    css:
+      - style.css
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    edit: null
+    sharing:
+      facebook: yes
+      twitter: yes
+      google: yes
+      all:
+        - facebook
+        - twitter
+        - google
+---
