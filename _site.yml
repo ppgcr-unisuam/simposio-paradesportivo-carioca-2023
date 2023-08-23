@@ -12,7 +12,7 @@ include:
 search: true
 navbar:
   left:
-    - text: "O SImpósio"
+    - text: "O Simpósio"
       icon: "fa-home"
       href: [index.html]
     - text: ""
