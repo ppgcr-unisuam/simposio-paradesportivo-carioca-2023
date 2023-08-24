@@ -56,6 +56,12 @@ if(file.exists("2023/Logo_Paradesportivo_2023.jpg")) {
 
 <br>
 
+## **Inscrições**
+
+### *Gratuitas*
+
+<br>
+
 ## **Sobre o evento**
 
 O Simpósio Paradesportivo Carioca tem como objetivo apresentar e discutir questões relacionadas à prática de esportes por pessoas com deficiência entre estudantes de graduação e pós-graduação, profissionais e pesquisadores nas diferentes áreas de conhecimento.
