@@ -1,5 +1,4 @@
 ---
-title: VII Simpósio Paradesportivo Carioca
 output:
   html_document:
     toc: TRUE
@@ -138,8 +137,6 @@ A realização do Simpósio Paradesportivo Carioca é uma forma de aumentar a vi
 </table>
 
 <br>
-
-<hr style="height:2px;border-width:0;color:#2C3E50;background-color:#2C3E50">
 
 <a style="float:right" href="#top"><b>Início `r library(fontawesome); fa("circle-up")`</b></a>
 

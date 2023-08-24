@@ -1,8 +1,8 @@
 ---
-title: Simpósio Paradesportivo Carioca
+title: VII Simpósio Paradesportivo Carioca
 date: '`r format(Sys.Date())`'
 author:
-  - name: Simpósio Paradesportivo Carioca - PPGCR-UNISUAM
+  - name: PPGCR-UNISUAM
   - email: "paradesportivocarioca@gmail.com"
 repository_url: https://ppgcr-unisuam.github.io/simposio-paradesportivo-carioca/
 creative_commons: CC BY-NC
