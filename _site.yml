@@ -1,5 +1,5 @@
 ---
-title: VII Simpósio Paradesportivo Carioca
+title: Simpósio Paradesportivo Carioca | PPGCR-UNISUAM
 date: '`r format(Sys.Date())`'
 author:
   - name: PPGCR-UNISUAM
