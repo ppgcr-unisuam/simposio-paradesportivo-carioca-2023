@@ -64,9 +64,19 @@ if(file.exists("2023/Logo_Paradesportivo_2023.jpg")) {
 
 ## **Inscrições**
 
-### *Gratuitas*
+### [`r library(fontawesome); fa("arrow-up-right-from-square", margin_right = "0.1em")`](https://forms.gle/V7Ew5NjBYCWyJg8DA) *Gratuitas*
 
 <br>
+
+## **Local**
+
+### `r library(fontawesome); fa("location-dot", margin_right = "0.1em")` *Auditório Arapuan Motta*
+
+<br>
+
+<hr style="height:2px;border-width:0;color:#2C3E50;background-color:#2C3E50">
+
+<a style="float:right" href="#top"><b>Início `r library(fontawesome); fa("circle-up")`</b></a>
 
 # **Sobre o evento**
 
