@@ -5,6 +5,7 @@ output:
     toc: FALSE
     css:
       - CSS/index.css
+      - CSS/narrow-margins.css
 ---
 
 <!--install and/or load all R packages-->
