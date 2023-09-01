@@ -70,7 +70,7 @@ if(file.exists("2023/Logo_Paradesportivo_2023.jpg")) {
 
 ## **Local**
 
-### `r library(fontawesome); fa("location-dot", margin_right = "0.1em")` *Auditório Arapuan Motta*
+### [`r library(fontawesome); fa("location-dot", margin_right = "0.1em")`](local.html) *Auditório Arapuan Motta*
 
 <br>
 
