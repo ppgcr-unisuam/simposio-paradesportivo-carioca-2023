@@ -3,6 +3,9 @@ title: Local
 output:
   html_document:
     toc: FALSE
+    css:
+      - CSS/narrow-margins.css
+      - CSS/responsive/css
 ---
 
 <!--install and/or load all R packages-->

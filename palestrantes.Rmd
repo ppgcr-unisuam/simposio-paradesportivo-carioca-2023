@@ -3,6 +3,8 @@ title: Palestrantes
 output:
   html_document:
     toc: TRUE
+    css:
+      - CSS/responsive/css
 ---
 
 <!--install and/or load all R packages-->

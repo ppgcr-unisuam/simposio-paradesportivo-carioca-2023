@@ -2,7 +2,9 @@
 title: Galeria
 output:
   html_document:
-    toc: FALSE
+    toc: TRUE
+    css:
+      - CSS/responsive/css
 ---
 
 <!--install and/or load all R packages-->
