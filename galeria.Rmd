@@ -2,8 +2,9 @@
 title: Galeria
 output:
   html_document:
-    toc: TRUE
+    toc: FALSE
     css:
+      - CSS/narrow-margins.css
       - CSS/responsive/css
 ---
 
@@ -17,13 +18,39 @@ knitr::opts_chunk$set(
   results = "asis",
   include = TRUE,
   out.width = "100%",
-  knitr.kable.NA = '--',
+  knitr.kable.NA = '',
   knitr.table.format = "html"
 )
 ```
 
 <br>
 
-*Em construção*
+```{css}
+.item img {
+  width:25%
+}
+```
 
-<br>
+```{r galeria-carousel, out.width="50%"}
+library("dplyr")
+
+# carousel
+bsplus::bs_carousel(id = "projetos-carousel",
+            use_indicators = FALSE,
+            use_controls = TRUE) %>%
+  bsplus::bs_append(content = bsplus::bs_carousel_image(src = "2023/Fotos/01.jpg")) %>%
+  bsplus::bs_append(content = bsplus::bs_carousel_image(src = "2023/Fotos/02.jpg")) %>%
+  bsplus::bs_append(content = bsplus::bs_carousel_image(src = "2023/Fotos/03.jpg")) %>%
+  bsplus::bs_append(content = bsplus::bs_carousel_image(src = "2023/Fotos/04.jpg")) %>%
+  bsplus::bs_append(content = bsplus::bs_carousel_image(src = "2023/Fotos/05.jpg")) %>%
+  bsplus::bs_append(content = bsplus::bs_carousel_image(src = "2023/Fotos/06.jpg")) %>%
+  bsplus::bs_append(content = bsplus::bs_carousel_image(src = "2023/Fotos/07.jpg")) %>%
+  bsplus::bs_append(content = bsplus::bs_carousel_image(src = "2023/Fotos/08.jpg")) %>%
+  bsplus::bs_append(content = bsplus::bs_carousel_image(src = "2023/Fotos/09.jpg")) %>%
+  bsplus::bs_append(content = bsplus::bs_carousel_image(src = "2023/Fotos/10.jpg")) %>%
+  bsplus::bs_append(content = bsplus::bs_carousel_image(src = "2023/Fotos/11.jpg")) %>%
+  bsplus::bs_append(content = bsplus::bs_carousel_image(src = "2023/Fotos/12.jpg")) %>%
+  bsplus::bs_append(content = bsplus::bs_carousel_image(src = "2023/Fotos/13.jpg"))
+
+cat('\n\n')
+```

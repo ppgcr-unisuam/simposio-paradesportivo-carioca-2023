@@ -15,23 +15,25 @@ navbar:
     - text: ""
       icon: "fa-home"
       href: [index.html]
+    - text: "Local"
+      href: [local.html]
     - text: "Programação"
       href: [programacao.html]
     - text: "Palestrantes"
       href: [palestrantes.html]
-    - text: "Local"
-      href: [local.html]
     - text: "Normas de submissão"
       href: [normas.html]
     - text: "Publicações"
       href: [publicacoes.html]
+    - text: "Participantes"
+      href: "2023/Participantes.pdf"
     - text: "Galeria"
       href: [galeria.html]
   right:
     - text: "Inscrições"
       icon: "fa-share-from-square"
       href: [https://forms.gle/V7Ew5NjBYCWyJg8DA]
-    - text: "Submissão de trabalhos"
+    - text: "Submissão"
       icon: "fa-share-from-square"
       href: [https://forms.gle/o1iawzzjTLXjF2CH6]
     - text: ""
